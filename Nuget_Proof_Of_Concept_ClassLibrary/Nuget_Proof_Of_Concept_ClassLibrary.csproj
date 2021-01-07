@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <Authors>Heimoski, Ricardo</Authors>
+    <Company>Wiley</Company>
+    <Description>This package shows that we can host and use our own nuget packages for internal use.</Description>
+  </PropertyGroup>
+
+</Project>
